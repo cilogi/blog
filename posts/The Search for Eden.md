@@ -1,13 +1,13 @@
 ---
 title: The Search for Eden
 date: 2019-06-22
-summary: How to run a blog in 2019
+summary: Why run a blog in 2019?
 tags:
   - post
   - blog
+- tech
 
 ---
-
 My first and only blog: on [Blogger][1]; stuttered in 2004 and was abandoned after sporadic posting (24 in all) over 3 or so years.
 
 There were two main reasons for stopping.  I didn’t have much to say or much reason to say it, and I wasn’t comfortable with the blogging tool (Blogger).
