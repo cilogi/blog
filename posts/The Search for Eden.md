@@ -5,7 +5,7 @@ summary: Why run a blog in 2019?
 tags:
   - post
   - blog
-- tech
+  - tech
 
 ---
 My first and only blog: on [Blogger][1]; stuttered in 2004 and was abandoned after sporadic posting (24 in all) over 3 or so years.
